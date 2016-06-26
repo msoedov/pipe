@@ -1,7 +1,7 @@
 from distutils.core import setup
 
 setup(
-    name='pipe.py',
+    name='pipe',
     version='0.1.0',
     packages=[''],
     url='',
